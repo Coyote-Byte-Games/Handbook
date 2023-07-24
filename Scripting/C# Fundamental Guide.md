@@ -12,9 +12,15 @@ The following will be universally applicable for C#; these are the first steps.
     <li>Loops</li>
     <li>Classes</li>
     <li>Privacy</li>
-    <li>Using statements and namespaces</li>
+    #### Below are more advanced topics, but still important.
     <li>Generics</li>
-    <li>Lambdas(optional)</li>
+    <li>Class inheritance</li>
+    <li>Interfaces</li>
+    #### Optional, but useful
+    <li>Lambdas</li>
+    <li>Namespaces and using directives</li>
+    
+  
 </ul>
 <h1>Where next?</h1>
 It's up to you; it's important to get these concepts, but you're the judge of that. If you want to further hone your skills, I would suggest either creating an intermediate C# program to utulize these skills — such as a simple card game, like blackjack — or just by grabbing Unity by the horns.
