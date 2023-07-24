@@ -12,11 +12,11 @@ The following will be universally applicable for C#; these are the first steps.
     <li>Loops</li>
     <li>Classes</li>
     <li>Privacy</li>
-    #### Below are more advanced topics, but still important.
+    <h4>  Below are more advanced topics, but still important. </h4>
     <li>Generics</li>
     <li>Class inheritance</li>
     <li>Interfaces</li>
-    #### Optional, but useful
+    <h4> Optional, but useful </h4>
     <li>Lambdas</li>
     <li>Namespaces and using directives</li>
     
